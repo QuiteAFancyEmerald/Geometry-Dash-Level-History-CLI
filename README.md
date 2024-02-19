@@ -1,4 +1,4 @@
-# Geometry ID History Graphing Utility
+# Geometry Dash ID History Graphing Utility
 Upon researching for a video I created a tool that allows you to graph level IDs from the game Geometry Dash on a monthly, weekly or yearly basis. It fetches approximate ID values attached to a certain date from the GDHistory API site.
 
 This tool uses **matplotlib** for the graph view and also supports an organized CSV export table for those who wish to export data.
